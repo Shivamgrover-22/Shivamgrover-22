@@ -88,6 +88,7 @@ React | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS
 
 - 🐙 **GitHub**: [Shivamgrover-22](https://github.com/Shivamgrover-22)
 - 📱 **Threads**: [@code.with.shivamdev](https://threads.com/@code.with.shivamdev)
+- 📸 **Instagram**: [@_codewithshivam_](https://www.instagram.com/_codewithshivam_)
 - 💼 **LinkedIn**: [Shivam Grover](https://www.linkedin.com/in/shivam-grover-026635238/)
 
 ---
